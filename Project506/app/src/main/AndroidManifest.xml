@@ -10,10 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Project506">
         <activity
-            android:name=".MainActivity"
-            android:exported="false" />
-        <activity
-            android:name=".SplashActivity"
+            android:name=".UserList"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
